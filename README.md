@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for  **Rbiz Group As Fullstack Nodejs Developer**
 
-- 🌱 I’m currently learning **React Js | Vuejs3 | Data Structures & Algorithms | Flutter**
+- 🌱 I’m currently learning **React Js | Vuejs3 | Flutter**
 
 
 
